@@ -1,8 +1,7 @@
-# React + Vite
+# 과제 시작 절차
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 1. Fork 버튼 누른 뒤 "Copy the ex1 branch only" 체크박스 해제하세요. (그래야 모든 브랜치 복사가 가능합니다.)
 
-Currently, two official plugins are available:
+## 2. 본인 레포지토리로 Fork 가 잘 되었다면, 본인 레포지토리에서 클론받으세요.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 3. 과제 수행 후 각 브랜치별로 push 한 뒤 github url 제출
